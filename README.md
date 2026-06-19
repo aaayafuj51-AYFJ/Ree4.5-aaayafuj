@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="assets/banner.png" alt="Ree4.5 Banner">
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4d44c5c4-ed6f-4d2b-a24e-d6f15c07fc98" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aca1daea-5251-459a-a62c-cd3165c9d9cd" />
 
-# <img src="assets/logo.png" width="42"> Ree4.5 (4B)
+# aaayafuj > Ree4.5 (4B)
 
 ### **Lightweight Intelligence • Advanced Reasoning • Local AI**
 
